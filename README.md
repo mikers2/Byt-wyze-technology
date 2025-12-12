@@ -110,23 +110,25 @@ Free, open-source collection demonstrating what SAT Maker API can produce.
 
 ---
 
-## 🗺️ Roadmap 2025
+## 🗺️ 2025 Achievements & 2026 Roadmap
 
-### Q1 2025
-- ✅ SAT Maker API v1.0 launch
-- ✅ SAT Benchmark Instance Library release
-- 🔄 STTF v1.0 formal specification
+### ✅ Completed in 2025
+- ✅ SAT Maker API v1.0 launched (RapidAPI)
+- ✅ SAT Benchmark Instance Library released (101 instances)
+- ✅ Interactive HTML viewer for instance analysis
+- ✅ 3×3 hardness taxonomy classification system
+- ✅ BYT-WYZE™ trademark secured
 
-### Q2 2025
-- 🔜 SAT Maker API v2.0 (next-gen CNF generation)
+### 🔜 Q1 2026
+- 🔜 STTF v1.0 formal specification finalized
 - 🔜 STTF OIS number registration
-- 🔜 Deterministic dataset suites for competitions
+- 🔜 SAT Maker API v2.0 (next-gen CNF generation)
 
-### Q3-Q4 2025
+### 🔜 Q2-Q4 2026
+- 🔜 Deterministic dataset suites for competitions
 - 🔜 Additional SAT analysis tools
 - 🔜 Alternative mathematical generation models
 - 🔜 Expanded API ecosystem for hard computational problems
-
 ---
 
 ## 💬 Community & Collaboration
