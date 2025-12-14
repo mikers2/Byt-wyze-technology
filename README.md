@@ -17,7 +17,7 @@
 
 ---
 
-## 🎯 Mission
+##  Mission
 
 Byt-Wyze develops **deterministic SAT generators**, **CNF preprocessing tooling**, and **reproducible research standards** for the SAT and formal-methods community.
 
@@ -58,7 +58,7 @@ The SAT community needs a standard way to track what solvers do during preproces
 
 ---
 
-### 🎲 [SAT Maker API](https://rapidapi.com/bytwyze/api/sat-maker)
+###  [SAT Maker API](https://rapidapi.com/bytwyze/api/sat-maker)
 
 **Deterministic SAT instance generator with mathematically rigorous hardness control**
 
@@ -72,9 +72,9 @@ Generate SAT instances with predictable structural properties using the propriet
 - ✅ Millisecond generation speed
 
 **Pricing:**
-- 🆓 Free tier: 100 calls/month
-- 💼 Pro: $59/mo - 1,000 calls
-- 🏢 Ultra: $299/mo - 10,000 calls
+-  Free tier: 100 calls/month
+-  Pro: $59/mo - 1,000 calls
+-  Ultra: $299/mo - 10,000 calls
 
 **Use Cases:**
 - Solver benchmarking and testing
